@@ -1,0 +1,11 @@
+2018-12-25 17:53:30,209:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='train', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-12-25 17:53:36,158:INFO: 2018-12-25 17:53:33 epoch 1, step 1, loss: 75.69, global_step: 1
+2018-12-25 17:53:36,158:INFO: 2018-12-25 17:53:33 epoch 1, step 1, loss: 75.69, global_step: 1
+2018-12-25 18:04:16,076:INFO: 2018-12-25 17:53:33 epoch 1, step 300, loss: 5.238, global_step: 300
+2018-12-25 18:04:16,076:INFO: 2018-12-25 17:53:33 epoch 1, step 300, loss: 5.238, global_step: 300
+2018-12-25 18:14:43,077:INFO: 2018-12-25 17:53:33 epoch 1, step 600, loss: 3.953, global_step: 600
+2018-12-25 18:14:43,077:INFO: 2018-12-25 17:53:33 epoch 1, step 600, loss: 3.953, global_step: 600
+2018-12-25 18:21:28,416:INFO: 2018-12-25 17:53:33 epoch 1, step 792, loss: 6.21, global_step: 792
+2018-12-25 18:21:28,416:INFO: 2018-12-25 17:53:33 epoch 1, step 792, loss: 6.21, global_step: 792
+2018-12-25 18:21:28,597:INFO: ===========validation / test===========
+2018-12-25 18:21:28,597:INFO: ===========validation / test===========
